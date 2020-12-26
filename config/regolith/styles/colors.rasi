@@ -1,0 +1,18 @@
+* {
+  black: #282828;
+  red: #CC241D;
+  green: #98971A;
+  yellow: #D79921;
+  blue: #458588;
+  magenta: #B16286;
+  cyan: #689D6A;
+  white: #EBDBB2;
+  black-alt: #928374;
+  red-alt: #FB4934;
+  green-alt: #B8BB26;
+  yellow-alt: #FABD2F;
+  blue-alt: #83A598;
+  megenta-alt: #D3869B;
+  cyan-alt: #8EC07C;
+  white-alt: #A89984;
+}

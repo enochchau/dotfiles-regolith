@@ -1,0 +1,10 @@
+#include "Xresources.d/colors"
+#include "Xresources.d/dpi"
+#include "Xresources.d/terminal"
+#include "Xresources.d/i3"
+
+rofi.theme: ~/.config/regolith/styles/rofi.rasi
+rofi.icon-theme: oomox-Gruvbox-Dark
+gnome.gtk.theme: oomox-Gruvbox-Dark
+gnome.icon.theme: oomox-Gruvbox-Dark
+gnome.wallpaper: ~/Pictures/Wallpapers/37.png

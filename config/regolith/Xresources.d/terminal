@@ -1,0 +1,18 @@
+! Terminal colors
+St.color0:	BLACK
+St.color1:	RED
+St.color2:	GREEN
+St.color3:	YELLOW	
+St.color4:	BLUE	
+St.color5:	MAGENTA	
+St.color6:	CYAN
+St.color7:	WHITE	
+! St.color8 controls the cursor color
+St.color8:	WHITE	
+St.color9:	REDALT
+St.color10:	GREENALT
+St.color11:	YELLOWALT
+St.color12:	BLUEALT
+St.color13:	MAGENTAALT
+St.color14:	CYANALT
+St.color15:	WHITEALT

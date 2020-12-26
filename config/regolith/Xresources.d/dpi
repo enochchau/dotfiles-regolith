@@ -1,0 +1,4 @@
+! High DPI Settings
+#define DPI 192
+Xft.dpi: DPI
+rofi.dpi: DPI

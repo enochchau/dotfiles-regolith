@@ -1,0 +1,57 @@
+! i3 Colors
+i3-wm.bar.background.color:	BLACK
+i3-wm.bar.separator.color:	YELLOWALT
+i3-wm.bar.statusline.color:	WHITEALT
+i3-wm.bar.workspace.active.background.color:	YELLOWALT
+i3-wm.bar.workspace.active.border.color:	YELLOWALT
+i3-wm.bar.workspace.active.text.color:	BLACKALT
+i3-wm.bar.workspace.focused.background.color:	YELLOWALT
+i3-wm.bar.workspace.focused.border.color:	YELLOWALT
+i3-wm.bar.workspace.focused.text.color:	BLACK
+i3-wm.bar.workspace.inactive.background.color:	BLACK
+i3-wm.bar.workspace.inactive.border.color:	BLACK
+i3-wm.bar.workspace.inactive.text.color:	WHITE
+i3-wm.bar.workspace.urgent.background.color:	RED
+i3-wm.bar.workspace.urgent.border.color:	RED
+i3-wm.bar.workspace.urgent.text.color:	WHITEALT
+i3-wm.client.focused.color.background:	YELLOWALT
+i3-wm.client.focused.color.border:	BLACK
+i3-wm.client.focused.color.child_border:	YELLOWALT
+i3-wm.client.focused.color.indicator:	YELLOWALT
+i3-wm.client.focused.color.text:	WHITEALT
+i3-wm.client.focused_inactive.color.background:	BLACKALT
+i3-wm.client.focused_inactive.color.border:	BLACK
+i3-wm.client.focused_inactive.color.child_border:	BLACK
+i3-wm.client.focused_inactive.color.indicator:	BLACKALT
+i3-wm.client.focused_inactive.color.text:	WHITEALT
+i3-wm.client.unfocused.color.background:	BLACKALT
+i3-wm.client.unfocused.color.border:	BLACK
+i3-wm.client.unfocused.color.child_border:	BLACK
+i3-wm.client.unfocused.color.indicator:	BLACKALT
+i3-wm.client.unfocused.color.text:	WHITEALT
+i3-wm.client.urgent.color.background:	RED
+i3-wm.client.urgent.color.border:	BLACK
+i3-wm.client.urgent.color.child_border:	BLACK
+i3-wm.client.urgent.color.indicator:	RED
+i3-wm.client.urgent.color.text:	WHITEALT
+
+! i3 Bar Colors
+i3xrocks.critical.color:	RED
+i3xrocks.error.color:	YELLOW
+i3xrocks.label.color:	WHITE
+i3xrocks.nominal:	WHITE
+i3xrocks.value.color:	WHITE
+i3xrocks.warning: YELLOWALT
+
+! i3 Bar Settings
+i3xrocks.date.format2: %a %m/%e %I:%M%P
+i3-wm.bar.position: top
+
+! i3 Workspace Names
+i3-wm.workspace.01.name:	1:<span font_desc='Material Design Icons 13'>  </span>
+i3-wm.workspace.02.name:	2:<span font_desc='Material Design Icons 13'>  </span>
+i3-wm.workspace.03.name:	3:<span font_desc='Material Design Icons 13'>  </span>
+i3-wm.workspace.04.name:	4:<span font_desc='Material Design Icons 13'>  </span>
+
+!         
+!
