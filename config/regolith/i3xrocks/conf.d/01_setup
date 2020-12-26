@@ -28,3 +28,7 @@ separator_block_width=0
 markup=pango
 color=xresource:i3xrocks.value.color
 label_color=xresource:i3xrocks.label.color
+
+[tip]
+full_text=▚▜
+color=xresource:color3
