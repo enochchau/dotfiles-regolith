@@ -1,14 +1,24 @@
 #define GRUVBOXDARK
 ! #define PALENIGHT
-#define DPI 96
-! #define DPI 192
 #include "Xresources.d/colors"
-#include "Xresources.d/dpi"
 #include "Xresources.d/terminal"
 #include "Xresources.d/i3"
 
 rofi.theme: ~/.config/regolith/styles/rofi.rasi
+#ifdef GRUVBOXDARK
 rofi.icon-theme: oomox-Gruvbox-Dark
 gnome.gtk.theme: oomox-Gruvbox-Dark
 gnome.icon.theme: oomox-Gruvbox-Dark
+#endif
+#ifdef PALENIGHT
+rofi.icon-theme: oomox-Material-Palenight
+gnome.gtk.theme: oomox-Material-Palenight
+gnome.icon.theme: oomox-Material-Palenight
+#endif
+
 gnome.wallpaper: ~/Pictures/Wallpapers/37.png
+
+! put these at the bottom incase of error
+! dpi is controlled by a the script Xresources.d/Xdpi.sh
+#include "Xresources.d/XsetDPI"
+#include "Xresources.d/dpi"
