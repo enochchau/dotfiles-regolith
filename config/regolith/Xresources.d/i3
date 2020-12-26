@@ -1,8 +1,8 @@
 ! i3 Colors
-i3-wm.client.focused.color.background:	    YELLOWALT
+i3-wm.client.focused.color.background:	    CYANALT
 i3-wm.client.focused.color.border:	        BLACK
-i3-wm.client.focused.color.child_border:	YELLOWALT
-i3-wm.client.focused.color.indicator:	    YELLOWALT
+i3-wm.client.focused.color.child_border:	CYANALT
+i3-wm.client.focused.color.indicator:	    CYANALT
 i3-wm.client.focused.color.text:	        WHITEALT
 i3-wm.client.focused_inactive.color.background:	    BLACKALT
 i3-wm.client.focused_inactive.color.border:	        BLACK
@@ -25,11 +25,11 @@ i3-wm.bar.font:	pango:JetBrains Mono Medium 13, Material Design Icons 13
 i3-wm.bar.background.color:	BLACK
 i3-wm.bar.separator.color:	YELLOWALT
 i3-wm.bar.statusline.color:	WHITEALT
-i3-wm.bar.workspace.active.background.color:	YELLOWALT
-i3-wm.bar.workspace.active.border.color:	    YELLOWALT
+i3-wm.bar.workspace.active.background.color:	CYANALT
+i3-wm.bar.workspace.active.border.color:	    CYANALT
 i3-wm.bar.workspace.active.text.color:	        BLACKALT
-i3-wm.bar.workspace.focused.background.color:	YELLOWALT
-i3-wm.bar.workspace.focused.border.color:	    YELLOWALT
+i3-wm.bar.workspace.focused.background.color:	CYANALT
+i3-wm.bar.workspace.focused.border.color:	    CYANALT
 i3-wm.bar.workspace.focused.text.color:	        BLACK
 i3-wm.bar.workspace.inactive.background.color:	BLACK
 i3-wm.bar.workspace.inactive.border.color:	    BLACK
@@ -53,23 +53,23 @@ i3xrocks.after.icon:
 i3xrocks.before.icon:▛▞▖
 
 i3xrocks.media-player.before.color:  BLACK
-i3xrocks.media-player.bg.color:      CYAN
+i3xrocks.media-player.bg.color:      YELLOW
 i3xrocks.media-player.after.color:   REDALT
 
-i3xrocks.net-traffic.before.color:  CYAN
+i3xrocks.net-traffic.before.color:  YELLOW
 i3xrocks.net-traffic.bg.color:      REDALT
-i3xrocks.net-traffic.after.color:   BLUE
+i3xrocks.net-traffic.after.color:   BLUEALT
 
 i3xrocks.rofication.before.color:  REDALT
 i3xrocks.rofication.bg.color:   BLUE
 i3xrocks.rofication.after.color:   GREEN
 
 i3xrocks.battery.before.color:  BLUE
-i3xrocks.battery.bg.color:      GREEN
-i3xrocks.battery.after.color:   MAGENTA
+i3xrocks.battery.bg.color:      GREENALT
+i3xrocks.battery.after.color:   MAGENTAALT
 
-i3xrocks.time.before.color:  GREEN
-i3xrocks.time.bg.color:         MAGENTA
+i3xrocks.time.before.color:  GREENALT
+i3xrocks.time.bg.color:         MAGENTAALT
 i3xrocks.time.after.color:   BLACK
 
 ! i3 Bar Settings
