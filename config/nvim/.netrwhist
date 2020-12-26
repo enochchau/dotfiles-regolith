@@ -1,5 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =5
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/enoch/dotfiles/config/regolith/i3xrocks/sbin'
+let g:netrw_dirhist_7='/home/enoch/dotfiles/config/regolith/i3xrocks/conf.d'
+let g:netrw_dirhist_6='/home/enoch/dotfiles/config/regolith/i3xrocks'
 let g:netrw_dirhist_5='/home/enoch/.config/regolith/Xresources.d'
 let g:netrw_dirhist_4='/home/enoch'
 let g:netrw_dirhist_3='/home/enoch/bin'

@@ -2,5 +2,6 @@
 #
 # Displays notifications.
 [rofication]
-command=rofication-status
+command=$HOME/.config/regolith/i3xrocks/sbin/rofication-status
 interval=10
+background=xresource:i3xrocks.rofication.bg.color

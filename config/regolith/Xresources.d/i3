@@ -1,47 +1,76 @@
 ! i3 Colors
+i3-wm.client.focused.color.background:	    YELLOWALT
+i3-wm.client.focused.color.border:	        BLACK
+i3-wm.client.focused.color.child_border:	YELLOWALT
+i3-wm.client.focused.color.indicator:	    YELLOWALT
+i3-wm.client.focused.color.text:	        WHITEALT
+i3-wm.client.focused_inactive.color.background:	    BLACKALT
+i3-wm.client.focused_inactive.color.border:	        BLACK
+i3-wm.client.focused_inactive.color.child_border:	BLACK
+i3-wm.client.focused_inactive.color.indicator:	    BLACKALT
+i3-wm.client.focused_inactive.color.text:	WHITEALT
+i3-wm.client.unfocused.color.background:	BLACKALT
+i3-wm.client.unfocused.color.border:	    BLACK
+i3-wm.client.unfocused.color.child_border:	BLACK
+i3-wm.client.unfocused.color.indicator:	    BLACKALT
+i3-wm.client.unfocused.color.text:	        WHITEALT
+i3-wm.client.urgent.color.background:	RED
+i3-wm.client.urgent.color.border:	    BLACK
+i3-wm.client.urgent.color.child_border:	BLACK
+i3-wm.client.urgent.color.indicator:	RED
+i3-wm.client.urgent.color.text:	        WHITEALT
+
+! i3 Bar
+i3-wm.bar.font:	pango:JetBrains Mono Medium 13, Material Design Icons 13
 i3-wm.bar.background.color:	BLACK
 i3-wm.bar.separator.color:	YELLOWALT
 i3-wm.bar.statusline.color:	WHITEALT
 i3-wm.bar.workspace.active.background.color:	YELLOWALT
-i3-wm.bar.workspace.active.border.color:	YELLOWALT
-i3-wm.bar.workspace.active.text.color:	BLACKALT
+i3-wm.bar.workspace.active.border.color:	    YELLOWALT
+i3-wm.bar.workspace.active.text.color:	        BLACKALT
 i3-wm.bar.workspace.focused.background.color:	YELLOWALT
-i3-wm.bar.workspace.focused.border.color:	YELLOWALT
-i3-wm.bar.workspace.focused.text.color:	BLACK
+i3-wm.bar.workspace.focused.border.color:	    YELLOWALT
+i3-wm.bar.workspace.focused.text.color:	        BLACK
 i3-wm.bar.workspace.inactive.background.color:	BLACK
-i3-wm.bar.workspace.inactive.border.color:	BLACK
-i3-wm.bar.workspace.inactive.text.color:	WHITE
+i3-wm.bar.workspace.inactive.border.color:	    BLACK
+i3-wm.bar.workspace.inactive.text.color:	    WHITE
 i3-wm.bar.workspace.urgent.background.color:	RED
-i3-wm.bar.workspace.urgent.border.color:	RED
-i3-wm.bar.workspace.urgent.text.color:	WHITEALT
-i3-wm.client.focused.color.background:	YELLOWALT
-i3-wm.client.focused.color.border:	BLACK
-i3-wm.client.focused.color.child_border:	YELLOWALT
-i3-wm.client.focused.color.indicator:	YELLOWALT
-i3-wm.client.focused.color.text:	WHITEALT
-i3-wm.client.focused_inactive.color.background:	BLACKALT
-i3-wm.client.focused_inactive.color.border:	BLACK
-i3-wm.client.focused_inactive.color.child_border:	BLACK
-i3-wm.client.focused_inactive.color.indicator:	BLACKALT
-i3-wm.client.focused_inactive.color.text:	WHITEALT
-i3-wm.client.unfocused.color.background:	BLACKALT
-i3-wm.client.unfocused.color.border:	BLACK
-i3-wm.client.unfocused.color.child_border:	BLACK
-i3-wm.client.unfocused.color.indicator:	BLACKALT
-i3-wm.client.unfocused.color.text:	WHITEALT
-i3-wm.client.urgent.color.background:	RED
-i3-wm.client.urgent.color.border:	BLACK
-i3-wm.client.urgent.color.child_border:	BLACK
-i3-wm.client.urgent.color.indicator:	RED
-i3-wm.client.urgent.color.text:	WHITEALT
+i3-wm.bar.workspace.urgent.border.color:	    RED
+i3-wm.bar.workspace.urgent.text.color:	        WHITEALT
+i3xrocks.label.color:	    BLACK
+i3xrocks.value.color:	    BLACK
 
-! i3 Bar Colors
-i3xrocks.critical.color:	RED
-i3xrocks.error.color:	YELLOW
-i3xrocks.label.color:	WHITE
-i3xrocks.nominal:	WHITE
-i3xrocks.value.color:	WHITE
-i3xrocks.warning: YELLOWALT
+! Battery Color
+i3xrocks.critical.color:    RED
+i3xrocks.error.color:	    ORANGE
+i3xrocks.nominal:	        BLACK
+
+! Rofication Color
+i3xrocks.warning:           YELLOW
+
+! i3 Bar Widget Background and Transition Color
+i3xrocks.after.icon: 
+i3xrocks.before.icon:▛▞▖
+
+i3xrocks.media-player.before.color:  BLACK
+i3xrocks.media-player.bg.color:      CYAN
+i3xrocks.media-player.after.color:   REDALT
+
+i3xrocks.net-traffic.before.color:  CYAN
+i3xrocks.net-traffic.bg.color:      REDALT
+i3xrocks.net-traffic.after.color:   BLUE
+
+i3xrocks.rofication.before.color:  REDALT
+i3xrocks.rofication.bg.color:   BLUE
+i3xrocks.rofication.after.color:   GREEN
+
+i3xrocks.battery.before.color:  BLUE
+i3xrocks.battery.bg.color:      GREEN
+i3xrocks.battery.after.color:   MAGENTA
+
+i3xrocks.time.before.color:  GREEN
+i3xrocks.time.bg.color:         MAGENTA
+i3xrocks.time.after.color:   BLACK
 
 ! i3 Bar Settings
 i3xrocks.date.format2: %a %m/%e %I:%M%P
@@ -53,5 +82,9 @@ i3-wm.workspace.02.name:	2:<span font_desc='Material Design Icons 13'>  </spa
 i3-wm.workspace.03.name:	3:<span font_desc='Material Design Icons 13'>  </span>
 i3-wm.workspace.04.name:	4:<span font_desc='Material Design Icons 13'>  </span>
 
+! Symbol Copypasta
 !         
 !
+!█░▒▓ ▙ ▚ ▛ ▜ ▝  ▟ ▗ ▖ ▖▁▂▃▄▅▆▇█◀◀
+!░▒▓█
+!█▓▒░

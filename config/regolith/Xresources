@@ -1,3 +1,7 @@
+#define GRUVBOXDARK
+! #define PALENIGHT
+#define DPI 96
+! #define DPI 192
 #include "Xresources.d/colors"
 #include "Xresources.d/dpi"
 #include "Xresources.d/terminal"

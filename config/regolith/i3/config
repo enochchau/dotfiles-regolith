@@ -662,6 +662,9 @@ exec --no-startup-id $i3-wm.program.2
 set_from_resource $i3-wm.program.3 i3-wm.program.3 :
 exec --no-startup-id $i3-wm.program.3
 
+# Reload Rofi colors from Xresources
+exec --no-startup-id $HOME/.config/regolith/styles/Xrasi.sh
+
 # Start certain programs to specifc workspaces
 assign [class="Code"] $ws2
 for_window [class="Spotify"] move container to workspace $ws3

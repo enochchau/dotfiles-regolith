@@ -3,3 +3,5 @@
 # Uncomment the next line to display in bits
 # command=/usr/share/i3xrocks/net-traffic-new -b
 interval=10
+background=xresource:i3xrocks.net-traffic.bg.color
+command=$HOME/.config/regolith/i3xrocks/sbin/net-traffic

@@ -3,3 +3,5 @@
 # Displays media controls
 [media-player]
 interval=5
+background=xresource:i3xrocks.media-player.bg.color
+command=$HOME/.config/regolith/i3xrocks/sbin/media-player

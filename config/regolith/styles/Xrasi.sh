@@ -18,7 +18,7 @@ done
 #     echo "value: ${map[$i]}"
 # done
 color_s=(black red green yellow blue magenta cyan white black-alt red-alt green-alt yellow-alt blue-alt megenta-alt cyan-alt white-alt)
-out=colors.rasi
+out=$HOME/.config/regolith/styles/colors.rasi
 echo "* {" > $out
 
 for ((i=0;i<${#color_s[@]};i++)); do

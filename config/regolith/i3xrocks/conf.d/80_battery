@@ -5,3 +5,5 @@
 # instance=BAT0
 [battery]
 interval=10
+background=xresource:i3xrocks.battery.bg.color
+command=$HOME/.config/regolith/i3xrocks/sbin/battery
