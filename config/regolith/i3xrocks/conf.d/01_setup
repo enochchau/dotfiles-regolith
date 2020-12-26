@@ -31,4 +31,4 @@ label_color=xresource:i3xrocks.label.color
 
 [tip]
 full_text=▚▜
-color=xresource:color3
+color=xresource:i3xrocks.media-player.bg.color
