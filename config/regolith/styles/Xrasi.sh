@@ -2,13 +2,14 @@
 # parses xrdb and writes those colors to colors.rasi for use in rofi themes
 x=$(xrdb -query | grep "*color" | sed 's/*color//g' | sed 's/://g')
 
+# put the string into an array
 array=()
 for w in $x; do
     array+=($w)
 done
 
+# create put the array elements into a map
 declare -A map
-
 for ((i=0;i<${#array[@]};i+=2)); do
     map[${array[$i]}]=${array[$i+1]}
 done
@@ -17,7 +18,11 @@ done
 #     echo "key: $i"
 #     echo "value: ${map[$i]}"
 # done
+
+# color name array
 color_s=(black red green yellow blue magenta cyan white black-alt red-alt green-alt yellow-alt blue-alt megenta-alt cyan-alt white-alt)
+
+# output file
 out=$HOME/.config/regolith/styles/colors.rasi
 echo "* {" > $out
 
