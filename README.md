@@ -4,3 +4,5 @@
 * Wallpaper(s) from [HQ Ghibli Wallpapers](https://drive.google.com/drive/folders/1MPECo6qYJejKuYdIot6EgvfINvAPnTGv)
 * [Gruvbox](https://github.com/morhetz/gruvbox) hex codes
 * [Material Palenight](https://github.com/JonathanSpeek/palenight-iterm2) hex codes (and probably a dozen other repositories that have riffed this scheme)
+
+![screenshot](screenshot)
