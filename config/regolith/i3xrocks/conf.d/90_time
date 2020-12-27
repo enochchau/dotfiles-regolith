@@ -1,5 +1,0 @@
-# Date Time
-[time]
-interval=10
-background=xresource:i3xrocks.time.bg.color
-command=$HOME/.config/regolith/i3xrocks/sbin/time

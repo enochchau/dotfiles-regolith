@@ -49,35 +49,42 @@ i3xrocks.nominal:	        BLACK
 i3xrocks.warning:           YELLOW
 
 ! i3 Bar Widget Background and Transition Color
-i3xrocks.after.icon: 
-i3xrocks.before.icon:▛▞▖
+i3xrocks.after.icon:"█▓▒░"
+i3xrocks.before.icon:"░▒▓"
 
 i3xrocks.media-player.before.color:  BLACK
 i3xrocks.media-player.bg.color:      YELLOW
-i3xrocks.media-player.after.color:   REDALT
+i3xrocks.media-player.after.color:   BLUE
 
-i3xrocks.net-traffic.before.color:  YELLOW
+i3xrocks.rofication.before.color:   YELLOW
+i3xrocks.rofication.bg.color:       BLUE
+i3xrocks.rofication.after.color:    REDALT
+
+i3xrocks.net-traffic.before.color:  BLUE
 i3xrocks.net-traffic.bg.color:      REDALT
-i3xrocks.net-traffic.after.color:   BLUEALT
+i3xrocks.net-traffic.after.color:   GREEN
 
-i3xrocks.rofication.before.color:  REDALT
-i3xrocks.rofication.bg.color:   BLUE
-i3xrocks.rofication.after.color:   GREEN
-
-i3xrocks.battery.before.color:  BLUE
+i3xrocks.battery.before.color:  REDALT
 i3xrocks.battery.bg.color:      GREENALT
 i3xrocks.battery.after.color:   MAGENTAALT
+i3xrocks.battery.underline:     none
+i3xrocks.battery.underline.color:   BLACK
 
-i3xrocks.time.before.color:  GREENALT
-i3xrocks.time.bg.color:         MAGENTAALT
-i3xrocks.time.after.color:   BLACK
+i3xrocks.time.before.color: GREENALT
+i3xrocks.time.bg.color:     MAGENTAALT
+i3xrocks.time.after.color:  YELLOW
+
+i3xrocks.keyboard-layout.before.color: MAGENTAALT
+i3xrocks.keyboard-layout.bg.color:     CYAN
+i3xrocks.keyboard-layout.after.color:  BLACK
+
 
 ! i3 Bar Settings
 i3xrocks.date.format2: %a %m/%e %I:%M%P
 i3-wm.bar.position: top
 
 ! i3 Workspace Names
-i3-wm.workspace.01.name:	1:<span font_desc='Material Design Icons 13'>  </span>
+i3-wm.workspace.01.name:	1:<span font_desc='Material Design Icons 13'>    </span>
 i3-wm.workspace.02.name:	2:<span font_desc='Material Design Icons 13'>  </span>
 i3-wm.workspace.03.name:	3:<span font_desc='Material Design Icons 13'>  </span>
 i3-wm.workspace.04.name:	4:<span font_desc='Material Design Icons 13'>  </span>
@@ -88,3 +95,6 @@ i3-wm.workspace.04.name:	4:<span font_desc='Material Design Icons 13'>  </spa
 !█░▒▓ ▙ ▚ ▛ ▜ ▝  ▟ ▗ ▖ ▖▁▂▃▄▅▆▇◀◀
 !░▒▓█
 !█▓▒░
+!五
+!
+!㈠㈡㈢㈣㈤㈥㈦㈧㈨㈩㊀㊁㊂㊃㊄㊅㊆㊇㊈㊉

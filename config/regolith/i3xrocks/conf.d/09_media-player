@@ -1,0 +1,11 @@
+# Media Player
+
+[]
+full_text=xresource:i3xrocks.before.icon
+background=xresource:i3xrocks.media-player.before.color
+color=xresource:i3xrocks.media-player.bg.color
+
+# Displays media controls
+[media-player]
+interval=5
+background=xresource:i3xrocks.media-player.bg.color

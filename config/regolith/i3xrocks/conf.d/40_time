@@ -1,0 +1,10 @@
+# Date Time
+
+[]
+full_text=xresource:i3xrocks.before.icon
+background=xresource:i3xrocks.time.before.color
+color=xresource:i3xrocks.time.bg.color
+
+[time]
+interval=10
+background=xresource:i3xrocks.time.bg.color

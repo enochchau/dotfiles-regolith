@@ -1,10 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =8
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/enoch/dotfiles/config/regolith/Xresources.d'
+let g:netrw_dirhist_2='/home/enoch/dotfiles/config/regolith/i3xrocks/conf.d'
+let g:netrw_dirhist_1='/home/enoch/dotfiles/config/regolith/i3xrocks'
+let g:netrw_dirhist_0='/home/enoch/dotfiles/config/regolith/i3xrocks/conf.d'
+let g:netrw_dirhist_9='/home/enoch/dotfiles/config/regolith/Xresources.d'
 let g:netrw_dirhist_8='/home/enoch/dotfiles/config/regolith/i3xrocks/sbin'
 let g:netrw_dirhist_7='/home/enoch/dotfiles/config/regolith/i3xrocks/conf.d'
 let g:netrw_dirhist_6='/home/enoch/dotfiles/config/regolith/i3xrocks'
 let g:netrw_dirhist_5='/home/enoch/.config/regolith/Xresources.d'
 let g:netrw_dirhist_4='/home/enoch'
-let g:netrw_dirhist_3='/home/enoch/bin'
-let g:netrw_dirhist_2='/home/enoch/.config/regolith'
-let g:netrw_dirhist_1='/home/enoch/code/advent_of_code2020/.git'

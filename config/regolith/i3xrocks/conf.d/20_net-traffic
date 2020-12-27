@@ -1,7 +1,11 @@
 # Displays network load
+[]
+full_text=xresource:i3xrocks.before.icon
+background=xresource:i3xrocks.net-traffic.before.color
+color=xresource:i3xrocks.net-traffic.bg.color
+
 [net-traffic]
 # Uncomment the next line to display in bits
 # command=/usr/share/i3xrocks/net-traffic-new -b
 interval=10
 background=xresource:i3xrocks.net-traffic.bg.color
-command=$HOME/.config/regolith/i3xrocks/sbin/net-traffic

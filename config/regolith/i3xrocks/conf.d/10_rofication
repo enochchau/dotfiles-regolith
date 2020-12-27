@@ -1,0 +1,17 @@
+# Rofication
+#
+[]
+full_text=xresource:i3xrocks.before.icon
+background=xresource:i3xrocks.rofication.before.color
+color=xresource:i3xrocks.rofication.bg.color
+
+# Displays notifications.
+[rofication]
+command=rofication-status
+interval=10
+background=xresource:i3xrocks.rofication.bg.color
+
+[]
+# \u2003 is unicode for a space
+full_text="\u2003"
+background=xresource:i3xrocks.rofication.bg.color

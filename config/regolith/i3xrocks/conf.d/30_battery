@@ -3,7 +3,11 @@
 # Displays total percentage charge left of specified battery.
 # You can specify the instance by adding:
 # instance=BAT0
+[]
+full_text=xresource:i3xrocks.before.icon
+background=xresource:i3xrocks.battery.before.color
+color=xresource:i3xrocks.battery.bg.color
+
 [battery]
 interval=10
 background=xresource:i3xrocks.battery.bg.color
-command=$HOME/.config/regolith/i3xrocks/sbin/battery

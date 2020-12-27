@@ -29,6 +29,3 @@ markup=pango
 color=xresource:i3xrocks.value.color
 label_color=xresource:i3xrocks.label.color
 
-[tip]
-full_text=▚▜
-color=xresource:i3xrocks.media-player.bg.color
