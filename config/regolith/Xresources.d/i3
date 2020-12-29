@@ -37,8 +37,11 @@ i3-wm.bar.workspace.inactive.text.color:	    WHITE
 i3-wm.bar.workspace.urgent.background.color:	RED
 i3-wm.bar.workspace.urgent.border.color:	    RED
 i3-wm.bar.workspace.urgent.text.color:	        WHITEALT
-i3xrocks.label.color:	    BLACK
-i3xrocks.value.color:	    BLACK
+i3xrocks.label.color:	    WHITEALT
+i3xrocks.value.color:	    WHITE
+
+! Tray (applets)
+i3-w.bar.trayoutput: primary
 
 ! Battery Color
 i3xrocks.critical.color:    RED
@@ -49,34 +52,34 @@ i3xrocks.nominal:	        BLACK
 i3xrocks.warning:           YELLOW
 
 ! i3 Bar Widget Background and Transition Color
-i3xrocks.after.icon:"█▓▒░"
-i3xrocks.before.icon:"░▒▓"
+! i3xrocks.after.icon:"▓▒░"
+! i3xrocks.before.icon:"░▒▓"
+i3xrocks.after.icon:""
+i3xrocks.before.icon:""
 
 i3xrocks.media-player.before.color:  BLACK
-i3xrocks.media-player.bg.color:      YELLOW
-i3xrocks.media-player.after.color:   BLUE
+i3xrocks.media-player.bg.color:      BLACK
+i3xrocks.media-player.after.color:   BLACK
 
-i3xrocks.rofication.before.color:   YELLOW
-i3xrocks.rofication.bg.color:       BLUE
-i3xrocks.rofication.after.color:    REDALT
+i3xrocks.rofication.before.color:   BLACK
+i3xrocks.rofication.bg.color:       BLACK
+i3xrocks.rofication.after.color:    BLACK
 
-i3xrocks.net-traffic.before.color:  BLUE
-i3xrocks.net-traffic.bg.color:      REDALT
-i3xrocks.net-traffic.after.color:   GREEN
+i3xrocks.net-traffic.before.color:  BLACK
+i3xrocks.net-traffic.bg.color:      BLACK
+i3xrocks.net-traffic.after.color:   BLACK
 
-i3xrocks.battery.before.color:  REDALT
-i3xrocks.battery.bg.color:      GREENALT
-i3xrocks.battery.after.color:   MAGENTAALT
-i3xrocks.battery.underline:     none
-i3xrocks.battery.underline.color:   BLACK
+i3xrocks.battery.before.color:  BLACK
+i3xrocks.battery.bg.color:      BLACK
+i3xrocks.battery.after.color:   BLACK
 
-i3xrocks.time.before.color: GREENALT
-i3xrocks.time.bg.color:     MAGENTAALT
-i3xrocks.time.after.color:  YELLOW
+i3xrocks.time.before.color: BLACK
+i3xrocks.time.bg.color:     BLACK
+i3xrocks.time.after.color:  BLACK
 
-i3xrocks.keyboard-layout.before.color: MAGENTAALT
-i3xrocks.keyboard-layout.bg.color:     CYAN
-i3xrocks.keyboard-layout.after.color:  BLACK
+i3xrocks.keyboard-layout.before.color: BLACK
+i3xrocks.keyboard-layout.bg.color:     BLACK
+i3xrocks.keyboard-layout.before.color: BLACK
 
 
 ! i3 Bar Settings

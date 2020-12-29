@@ -1,5 +1,5 @@
-#define GRUVBOXDARK
-! #define PALENIGHT
+! #define GRUVBOXDARK
+#define PALENIGHT
 #include "Xresources.d/colors"
 #include "Xresources.d/terminal"
 #include "Xresources.d/i3"

@@ -9,3 +9,8 @@ color=xresource:i3xrocks.media-player.bg.color
 [media-player]
 interval=5
 background=xresource:i3xrocks.media-player.bg.color
+
+# []
+# full_text=xresource:i3xrocks.after.icon
+# background=xresource:i3xrocks.media-player.after.color
+# color=xresource:i3xrocks.media-player.bg.color

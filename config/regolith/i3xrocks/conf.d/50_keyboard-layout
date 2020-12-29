@@ -3,9 +3,10 @@
 []
 full_text=xresource:i3xrocks.before.icon
 background=xresource:i3xrocks.keyboard-layout.before.color
-color=xresource:i3xrocks.keyboard-layout.bg.color
+# color=xresource:i3xrocks.keyboard-layout.bg.color
 
 # Displays current keyboard layout.
 [keyboard-layout]
 interval=1
-background=xresource:i3xrocks.keyboard-layout.bg.color
+# background=xresource:i3xrocks.keyboard-layout.bg.color
+color=xresource:color7

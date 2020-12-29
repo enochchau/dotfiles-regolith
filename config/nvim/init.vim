@@ -34,4 +34,4 @@ vnoremap > >gv
 vnoremap < <gv
 
 " Autostart colorizer
-let g:colorizer_auto_color=1
+" let g:colorizer_auto_color=1

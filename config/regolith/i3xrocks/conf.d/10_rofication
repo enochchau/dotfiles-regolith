@@ -11,7 +11,7 @@ command=rofication-status
 interval=10
 background=xresource:i3xrocks.rofication.bg.color
 
-[]
-# \u2003 is unicode for a space
-full_text="\u2003"
-background=xresource:i3xrocks.rofication.bg.color
+# []
+# # \u2003 is unicode for a space
+# full_text="\u2003"
+# background=xresource:i3xrocks.rofication.bg.color
