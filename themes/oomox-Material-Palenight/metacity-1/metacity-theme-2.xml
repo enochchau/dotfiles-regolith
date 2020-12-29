@@ -11,7 +11,7 @@
 <!-- ::: CONSTANTS ::: -->
 <constant name="C_titlebar_focused" value="#292d3e" />
 <constant name="C_titlebar_unfocused" value="#1B1E2B" />
-<constant name="C_border_focused" value="#ffcb6b" />
+<constant name="C_border_focused" value="#a3f7ff" />
 <constant name="C_border_unfocused" value="#292d3e" />
 <constant name="C_title_focused" value="#ffffff" />
 <constant name="C_title_unfocused" value="blend/#ffffff/#1B1E2B/0.4" />
