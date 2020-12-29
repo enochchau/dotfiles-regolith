@@ -665,7 +665,7 @@ exec --no-startup-id $i3-wm.program.3
 # Reload Rofi colors from Xresources
 # exec --no-startup-id $HOME/.config/regolith/styles/Xrasi.sh
 # Start script to change DPI depending on primary display
-exec --no-startup-id $HOME/.config/regolith/Xresrouces.d/sbin/Xdpi.sh
+exec --no-startup-id ~/.config/regolith/Xresources.d/sbin/load.sh &
 
 # Start certain programs to specifc workspaces
 assign [class="Code"] $ws2
